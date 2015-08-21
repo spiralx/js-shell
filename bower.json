@@ -1,0 +1,16 @@
+{
+  "name": "js-shell",
+  "version": "0.2.0",
+  "authors": [
+    "James Skinner <james.skinner@bcsg.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "src/vendor",
+    "test",
+    "tests"
+  ]
+}

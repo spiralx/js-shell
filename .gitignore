@@ -1,0 +1,30 @@
+# Caching folders
+*.DS_Store
+**/cache
+**/logs
+**/repositories
+**/target
+.temp/
+.sass-cache/
+
+# Dependency directory
+node_modules/
+vendor/
+
+# node-waf configuration
+.lock-wscript
+
+# Logs
+logs
+*.log
+
+# Coverage and reporting
+.reports/
+.idea/
+
+# IDE specific files
+*.iml
+
+build/
+*.tmp
+*.bak

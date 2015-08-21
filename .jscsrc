@@ -1,0 +1,31 @@
+{
+	"preset": "node-style-guide",
+  "disallowKeywordsOnNewLine": [],
+  "disallowMultipleVarDecl": null,
+  "disallowQuotedKeysInObjects": "allButReserved",
+  "disallowTrailingComma": true,
+	"maximumLineLength": {
+    "value": 120,
+    "allExcept": [ "urlComments" ]
+  },
+  "requireCamelCaseOrUpperCaseIdentifiers": null,
+  "requireCurlyBraces": [
+    "if",
+    "else",
+    "for",
+    "while",
+    "do",
+    "try",
+    "catch",
+    "finally",
+    "switch",
+    "case",
+    "default"
+  ],
+  /*"requireDollarBeforejQueryAssignment": true,*/
+  "requireSpread": true,
+  "requireTemplateStrings": { "allExcept": ["stringConcatenation"] },
+  "requireTrailingComma": null,
+  "validateLineBreaks": null,
+  "validateParameterSeparator": ", "
+}

@@ -1,0 +1,31 @@
+
+
+extends: 'eslint:recommended'
+
+parser: 'babel-eslint'
+
+
+env:
+  es6: true
+  node: true
+  browser: true
+  jquery: true
+  mocha: true
+
+globals:
+  angular: true
+  inject: false
+  expect: false
+
+
+rules:
+  indent: [2, 2]
+  quotes: [2, 'single']
+
+  semi: [1, 'always']
+  no-extra-semi: 1
+  no-unused-vars: 1
+
+
+  linebreak-style: 0
+
