@@ -1,4 +1,4 @@
-jspm_modules/
+jspm_packages/
 node_modules/
 vendor/
 build/
