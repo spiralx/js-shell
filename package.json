@@ -47,7 +47,7 @@
     "jade": "^1.11.0",
     "jade-loader": "^0.7.1",
     "jquery": "^3.2.1",
-    "lodash": "^3.10.1",
+    "lodash": "^4.17.19",
     "mousetrap": "^1.5.3",
     "raw-loader": "^0.5.1",
     "style-loader": "^0.12.1",
